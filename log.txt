@@ -1,0 +1,2 @@
+This is a log
+This is a info
