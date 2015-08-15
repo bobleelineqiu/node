@@ -20,4 +20,4 @@ http.createServer(function(req,res){
         }
     }
 
-}).listen(80);//在8080监听
+}).listen(8088);//在8080监听

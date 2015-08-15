@@ -68,6 +68,7 @@ fs.readdir(process.cwd(), function (err, files) {
                 //console.log(' '+(i+1)+'\033[32m'+ fileName+'\033[39m');
             }else{
                 json[i] = '\033[31m'+ fileName+'\033[39m';
+                res.
                 console.log(json);
                 //console.log(' '+(i+1)+'\033[32m'+ fileName+'\033[39m');
             }
